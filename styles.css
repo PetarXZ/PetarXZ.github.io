@@ -39,12 +39,6 @@ div
     background-color: #969e9;
     color: white;
 }
-
-
-
-
-
-
 .f1 {
     background-color:white;
     float: left;
@@ -71,4 +65,17 @@ div
     text-align: center;
     align-items: center;
     justify-content: center;
+}
+.f4 {
+    background-color:white;
+    float: left;
+    height: 500px;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+
+}
+.tl {
+    font-size: 25px;
+    font-family: 'Sans Serif';
 }
