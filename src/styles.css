@@ -36,7 +36,7 @@ div
     color: black;
 }
 .f0 a:active {
-    background-color: #969e9;
+    background-color: #9b9fa8;
     color: white;
 }
 .f1 {
@@ -77,5 +77,16 @@ div
 }
 .tl {
     font-size: 25px;
-    font-family: 'Sans Serif';
+}
+table, th, td {
+    font-weight: 1000;
+    border: 2px solid;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    align-items:center;
+}
+.center {
+    margin-left: 400px;
+    margin-right: auto;
 }
